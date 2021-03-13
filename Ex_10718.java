@@ -1,4 +1,4 @@
-package BaekJoon;
+package BeakJoon_;
 
 public class Ex_10718 {
 
